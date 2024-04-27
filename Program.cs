@@ -57,7 +57,7 @@ while (running == true)
 
 
         case "9":
-            while (running == true)
+            while (running == false)
                 Console.WriteLine("Exit");
             break;
 
